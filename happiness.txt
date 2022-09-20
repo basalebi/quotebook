@@ -7,3 +7,5 @@ new quote
 new quote
 
 bad quote 
+
+good quote
